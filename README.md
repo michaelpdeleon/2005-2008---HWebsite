@@ -11,6 +11,9 @@ This website was meant to give information to prospective tenants of this new bu
 I oversaw the full development cycle of this project from design, coding, to maintenance.  
 # Screenshots:
 ![Screenshot](github/github_screenshot_h1.jpg)  
+
 ![Screenshot](github/github_screenshot_h2.jpg)  
+
 ![Screenshot](github/github_screenshot_h3.jpg)  
+
 ![Screenshot](github/github_screenshot_h4.jpg)  
