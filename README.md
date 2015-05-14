@@ -4,7 +4,7 @@
 # Dates:  
 2005 - 2008  
 # Technologies:  
-HTML4, CSS2, Flash
+Photoshop, Dreamweaver, HTML4, CSS2, Flash
 # Description:  
 This website was meant to give information about this newly formed research and development laboratory.  It shows the personnel and their publications as well as the type of research they are conducting which hopefully attracts other experts in this field to join their work.  
 
